@@ -39,7 +39,7 @@ This Python script automates the process of removing backgrounds from images lis
 1. **Add input.csv:**
 
    - Place your **input.csv** file containing image URLs in the `data` folder.
-   - Each URL should be separated by a semicolon (`;`) if there are multiple URLs in a cell.
+   - It will take first 6 colums images in csv.
 
 2. **Run the Script:**
    - Open your terminal or command prompt.
@@ -52,7 +52,7 @@ This Python script automates the process of removing backgrounds from images lis
 ## Output:
 
 - Processed images will be saved in the `output/images` folder.
-- A zip file named `processed_images.zip` containing all the processed images will be created in the `output` folder.
+- All processed images will be in row_column.webp format. 
 
 ## Notes:
 
