@@ -1,5 +1,4 @@
 venv/
-data/
 output/
 remove_bg.py
 download_script.py
